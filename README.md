@@ -1,4 +1,4 @@
-# IOT-Smoke-Detector
+# IOT-Smoke_Detector
 The repository is about an IOT arduino-based project - smoke detector.
 
 A smoke detector is a device designed to sense the presence of smoke, 
