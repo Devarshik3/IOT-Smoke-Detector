@@ -8,6 +8,9 @@ The attached files contain all the informations, including list of components us
 actual photo of the project.
 
 components.csv - components list
+
 smoke_detector_code_ino - Code
+
 smoke_detector_image.pdf - circuit diagram
+
 physical_img.jpg - physical model of the project
