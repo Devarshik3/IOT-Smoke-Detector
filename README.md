@@ -7,6 +7,7 @@ typically as an indicator of fire, and emit an alarm to alert occupants of poten
 The attached files contain all the informations, including list of components used, code, circuit diagram, 
 actual photo of the project.
 
+
 components.csv - components list
 
 smoke_detector_code_ino - Code
